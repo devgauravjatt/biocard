@@ -1,13 +1,17 @@
 .card {
+    margin-top: 13px;
     background-color: rgb(59, 58, 58);
     max-width: 300px;
     height: 500px;
     border-radius: 9px;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+
 
 }
 
 .card:hover {
+    transform: skew(-6deg, 3deg);
     outline: 6px solid #ffee00;
     transition: outline 2s ease 0s;
 }
