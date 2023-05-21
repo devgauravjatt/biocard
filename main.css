@@ -1,11 +1,36 @@
 
 .card{
     background-color: blueviolet;
-    width: 80%;
+    width: 300px;
     height: 500px;
     border-radius: 9px;
     margin: auto;
-    box-shadow: 10px 10px 5px 12px red;
+   }
+
+
+ .profile{
+    text-align: center;
+   }
+
+
+   .profile img{
+    width: 175px;
+    margin-top: 33px;
+    height: 170px;
+    border: 2px rgb(251, 255, 0) solid;
+    border-radius: 50%;
 }
 
-/* hii */
+.name{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.hello{
+    margin-bottom: -20px;
+    margin-right: 174px;
+}
+
+.bio{
+
+}
